@@ -1,0 +1,2 @@
+f=open("ntihi.txt",'r')
+f.write("Hi")
